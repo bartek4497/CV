@@ -1,0 +1,39 @@
+body {
+	margin: 7%;
+	font-family: Calibri;
+	background: #EFEFEF;
+}
+
+main {
+	box-shadow: 1px 1px 3px 2px;
+}
+
+header {
+	background: #FFFFFF;
+	display: flex;
+	justify-content: center;
+}
+
+nav {
+	background: #38B0DE;
+	display: flex;
+	justify-content: center;
+	flex direction: column;	
+}
+
+ul {
+	text-decoration: underline;
+	list-style-type: circle;
+}
+
+li {
+	font-style: italic;
+	font-size: 27px;
+}
+
+footer {
+	background: #FFFFFF;
+	display: flex;
+	justify-content: center;
+}
+
